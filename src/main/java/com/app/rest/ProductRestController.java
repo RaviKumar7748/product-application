@@ -18,7 +18,7 @@ import com.app.entity.Product;
 import com.app.service.ProductService;
 
 @RestController
-@CrossOrigin
+@CrossOrigin("http://54.172.187.193")
 public class ProductRestController {
 	
 	
